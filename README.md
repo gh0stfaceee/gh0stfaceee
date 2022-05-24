@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **gh0stfaceee/gh0stfaceee** 
 ---
 
@@ -8,4 +7,3 @@
 - Malware Developper
 - Langages : c, cpp, assembleur, python, golang
 
--->
