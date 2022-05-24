@@ -1,6 +1,4 @@
-### Hi there 👋
-
-**gh0stfaceee/gh0stfaceee** 
+*gh0stfaceee/gh0stfaceee* 
 ---
 
 - Learning Pentesting
