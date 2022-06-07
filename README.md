@@ -2,6 +2,6 @@
 ---
 
 - **Pentester**
--**Certified Malware Developper**
+- **Certified Malware Developper**
 - **Langages** : c, cpp, assembleur (arm, x86), python, golang
 
