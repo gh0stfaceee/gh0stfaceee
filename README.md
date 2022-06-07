@@ -5,7 +5,10 @@
 - **Certified Malware Developper**
 - **Langages** : c, cpp, assembleur (arm, x86), python, golang
 
+---
 
-blog (en travaux): https://blog.security-primer.us/
+## Me Contacter
 
-Twitter: [@Imghostfaceee](https://twitter.com/Imghostfaceee)
+- blog (en travaux): https://blog.security-primer.us/
+- Twitter: [@Imghostfaceee](https://twitter.com/Imghostfaceee)
+- Discord: ghostface#9238
