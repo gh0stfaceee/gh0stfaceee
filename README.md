@@ -5,3 +5,5 @@
 - **Certified Malware Developper**
 - **Langages** : c, cpp, assembleur (arm, x86), python, golang
 
+
+blog (en travaux): https://blog.security-primer.us/
