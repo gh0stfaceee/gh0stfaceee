@@ -2,11 +2,3 @@
 ---
 
 - **Langages** : c, cpp, assembleur (arm, x86), python, golang
-
----
-
-## Me Contacter
-
-- blog (en travaux): https://blog.security-primer.us/
-- Twitter: [@Imghostfaceee](https://twitter.com/Imghostfaceee)
-- Discord: ghostface#9238
